@@ -3,4 +3,9 @@ une nouvelle mise a jour des produits
 
 un changement depuis le terminal 
 
+écrivon encore quelques petite ligne sur Git Hub
+
+
+cela permettra de perfectionner mes talent d'informaticien
+
 
