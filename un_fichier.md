@@ -11,4 +11,6 @@ dernière modifications
 
 encore quelques modifications
  une dernière fois pour faire la différence !
+ 
+ un petit test de la fonction revert pour comprendre.
 
