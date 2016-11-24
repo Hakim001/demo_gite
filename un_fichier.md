@@ -12,3 +12,4 @@ dernière modifications
 encore quelques modifications
  une dernière fois pour faire la différence !
 
+test de la fonction commande plutot branch
