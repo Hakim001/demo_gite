@@ -12,4 +12,8 @@ dernière modifications
 encore quelques modifications
  une dernière fois pour faire la différence !
 
+<<<<<<< HEAD
 je suis sur la branche master. yes
+=======
+test de la fonction commande plutot branch
+>>>>>>> ma_branche
