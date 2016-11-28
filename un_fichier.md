@@ -17,3 +17,5 @@ je suis sur la branche master. yes
 =======
 test de la fonction commande plutot branch
 >>>>>>> ma_branche
+
+voila grace a stash.
