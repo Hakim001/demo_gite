@@ -5,6 +5,8 @@ un changement depuis gitHub.
 
 justement je me rafraichit la mémoire.
 
+encore un changement pour bien comprendre le fonctionnement.
+
 
 
 
