@@ -7,7 +7,8 @@ justement je me rafraichit la mémoire.
 
 encore un changement pour bien comprendre le fonctionnement.  
 
- Un retour a l'iniatiale.
+
+ Un retour a l'initiale.
 
 
 
