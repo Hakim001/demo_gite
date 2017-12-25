@@ -8,7 +8,7 @@ justement je me rafraichit la mémoire.
 encore un changement pour bien comprendre le fonctionnement.  
 
 
- Un retour a l'initiale.
+ Un retour a l'initiale, j'ai eu l'occassion de bien vivre.
 
 
 
