@@ -28,7 +28,7 @@ Route::get('/create', 'accueilController@create')->name('create');
  
 Route::get('/indexe', 'accueilController@index')->name('indexe');
 
-Route::get('/edit', 'accueilController@edit')->name('edit')->middleware('admin');
+Route::get('/edit', 'accueilController@edit')->name('edit');
 
 Route::get('/request', function (Request $request) {
    //dd est la même chose que var_dump

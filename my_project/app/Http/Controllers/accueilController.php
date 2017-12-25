@@ -37,7 +37,7 @@ class AccueilController extends Controller
     
     public function edit()
     {
-        return "édition middelware test c'est bon ! une petite suite pour git dernière";
+        return "édition middelware test c'est bon ! une petite suite pour git dernière.";
     }
     
     public function update(UpdatePost $request)
