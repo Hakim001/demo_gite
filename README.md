@@ -10,7 +10,7 @@ encore un changement pour bien comprendre le fonctionnement.
 j'ai fait un test de branch.
 
 
-encore un test
+Encore un test.
 
 
 
